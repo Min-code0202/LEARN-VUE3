@@ -92,3 +92,4 @@ app.component('BookComponent', BookComponent)
 컴포넌트 시스템은 작고 독립적이며 재사용할 수 있는 컴포넌트로 구성된 대규모 애플리케이션을 구축할 수 있게 해주는 추상적 개념이다.
 * 작은 의미 재사용 가능한 컴포넌트
 * 넓은 의미 모든  Vue 인스턴스는 컴포넌트이다.
+![components configure](./image/components.webp)
