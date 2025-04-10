@@ -80,7 +80,7 @@ create → mount → update → destroy
 
   <br/>
 
-  ![Vue Lifecycle](./image/lifecycle.webp)
+  ![Vue Lifecycle](../image/lifecycle.webp)
 
 </details>
 
