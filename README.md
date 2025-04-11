@@ -9,9 +9,9 @@ VUE3를 공부하고 기록한 리포지토리입니다.
 ```
 <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
 ```
-* npm [here](./Vue%20설치방법/REAMME.md)
-* CLI [here](./Vue%20설치방법/REAMME.md)
-* Vite [here](./Vue%20설치방법/REAMME.md)
+* npm [here](./Vue%20설치방법/README.md)
+* CLI [here](./Vue%20설치방법/README.md)
+* Vite [here](./Vue%20설치방법/README.md)
 
 ## 컴포넌트 (Component)
 >자바스크립트에서 재사용할 수 있도록 코드를 분리한 파일을 *모듈*이라고 하는데 Vue에서도 마찬가지로 UI(HTML, CSS, JS)를 재사용할 수 있도록 정의한 것을 *컴포넌트*라고 한다.
